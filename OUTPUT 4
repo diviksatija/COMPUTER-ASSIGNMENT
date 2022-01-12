@@ -1,0 +1,11 @@
+Python 3.10.1 (v3.10.1:2cd268a3a9, Dec  6 2021, 14:28:59) [Clang 13.0.0 (clang-1300.0.29.3)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+
+===== RESTART: /Users/diviksatija/Documents/python codes IDLE/QUESTION 4.py ====
+Enter Marks for 1 th subject: 60
+Enter Marks for 2 th subject: 40
+Enter Marks for 3 th subject: 95
+Enter Marks for 4 th subject: 72
+Enter Marks for 5 th subject: 86
+Sorted Order Of Marks for the Subjects are :  [40, 60, 72, 86, 95]
+
