@@ -107,7 +107,7 @@ class Student:
         print("Object destroyed")
 
 #creating object
-student1 = Student("Mishank", 21103107)
+student1 = Student("Divik", 21104058)
 print("Object created")
 #printing the assigned values
 print(f"The name of the student it {student1.name} and SID is {student1.roll_no}.")
